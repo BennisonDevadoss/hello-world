@@ -1,0 +1,10 @@
+Bennison J, [22/01/22 8:18 PM]
+[ Album ]
+First i did this in my Github account (changed main to master)
+
+Bennison J, [22/01/22 8:23 PM]
+[ Photo ]
+First i ran this image's first command but this command gave the error                                   Then i used -f with above command ( git push -f origin master ) this command is executed properly.
+
+Bennison J, [22/01/22 8:27 PM]
+First time only I used the -f option with this command, after I did this command, I could run push command normally.
